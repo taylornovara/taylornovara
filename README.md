@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+ I am an educator turned developer based in New Orleans, LA.
+ I am passionate about connecting with people and solving complex problems with innovativesolutions. 
+ As a lifelong learner, I love to work with new technologies and creative products.
+ 
+ I'm currently learning Python and working to sharpen my programming skills!
+
 <!--
 **taylornovara/taylornovara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

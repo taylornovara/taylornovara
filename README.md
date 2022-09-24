@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  I am an educator turned developer based in New Orleans, LA.
- I am passionate about connecting with people and solving complex problems with innovativesolutions. 
+ I am passionate about connecting with people and solving complex problems with innovative solutions. 
  As a lifelong learner, I love to work with new technologies and creative products.
  
  I'm currently learning Python and working to sharpen my programming skills!
